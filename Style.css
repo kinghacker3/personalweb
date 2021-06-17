@@ -1,0 +1,23 @@
+body{
+  font-family: cursive;
+  font-size: 18px;
+  background: #FF0000;
+  color:gold;
+}
+
+.Welcome{
+  color: #0000ff;
+  font-size: 33px;
+  
+}
+.top span{
+  color: colourful;
+}
+.info{
+  border:3px; sloid blue;
+  padding: 25px;
+}
+b{colour:red;}
+img{
+  width:100%;
+}
