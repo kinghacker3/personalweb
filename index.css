@@ -10,14 +10,13 @@ body{
   font-size: 33px;
   
 }
-.top span{
-  color: gold;
+h3{colour: gold;
 }
 .info{
   border:3px; sloid blue;
   padding: 25px;
 }
-.q{colour:red;}
-.img{
+b{colour:red;}
+img{
   width:100%;
 }
