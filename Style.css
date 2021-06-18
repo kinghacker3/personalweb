@@ -1,4 +1,4 @@
-body{
+.body{
   font-family: cursive;
   font-size: 18px;
   background: #FF0000;
@@ -11,7 +11,7 @@ body{
   
 }
 .top span{
-  color: colourful;
+  color: violet;
 }
 .info{
   border:3px; sloid blue;
